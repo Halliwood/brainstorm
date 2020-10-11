@@ -1,0 +1,26 @@
+{
+  "name": "brainstorm",
+  "version": "1.0.0",
+  "description": "A great tool helps you think better.",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "tsc && node bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Halliwood/brainstorm.git"
+  },
+  "keywords": [
+    "brainstorm",
+    "think",
+    "stock",
+    "news",
+    "mind"
+  ],
+  "author": "Halliwood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Halliwood/brainstorm/issues"
+  },
+  "homepage": "https://github.com/Halliwood/brainstorm#readme"
+}
